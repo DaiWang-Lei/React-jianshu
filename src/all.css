@@ -1,0 +1,9 @@
+.css {
+  position: absolute;
+  left: 0;
+  top: 56px;
+  width: 240px;
+  padding: 0 20px;
+  background: lightpink;
+  text-align: center;
+}
